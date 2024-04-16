@@ -4,7 +4,7 @@
 #
 # TODO 0: Add your information below for Programmer & Date Created.                                                                             
 # PROGRAMMER: KELVIN OKUMU
-# DATE CREATED: 01/04/2024                            
+# DATE CREATED: 16/04/2024                            
 # REVISED DATE: 
 # PURPOSE: Classifies pet images using a pretrained CNN model, compares these
 #          classifications to the true identity of the pets in the images, and
