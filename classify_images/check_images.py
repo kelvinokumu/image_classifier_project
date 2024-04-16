@@ -30,7 +30,7 @@ from time import time, sleep
 from print_functions_for_lab_checks import *
 
 # Imports functions created for this program
-from get_input_args import get_input_args
+from classify_images.get_input_args import get_input_args
 from get_pet_labels import get_pet_labels
 from classify_images import classify_images
 from adjust_results4_isadog import adjust_results4_isadog
